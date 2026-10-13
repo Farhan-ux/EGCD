@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+AMBER/
+results/
+AMBER_images.zip
+.ipynb_checkpoints/
